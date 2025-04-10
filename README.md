@@ -34,3 +34,4 @@
 7. Run the consumer file in 3 seperate terminals in your vs-code or any other code editor : `node consumer.js`
 
 8. Run the producer file in a seperate terminal and see how the messages is being distributed to the 3 partitions(3 consumers terminal)
+
